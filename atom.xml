@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miziyusiyangzhinan.github.io</id>
-    <title>咪子鱼饲养指南</title>
-    <updated>2021-09-14T22:29:00.293Z</updated>
+    <title>咪子鱼饲养基地</title>
+    <updated>2021-09-14T22:30:50.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miziyusiyangzhinan.github.io"/>
     <link rel="self" href="https://miziyusiyangzhinan.github.io/atom.xml"/>
-    <subtitle>欢迎投喂鱼饲料~</subtitle>
+    <subtitle>各位鱼鱼互相投喂鱼饲料同时也要记得遵守本站的相关规则哦~</subtitle>
     <logo>https://miziyusiyangzhinan.github.io/images/avatar.png</logo>
     <icon>https://miziyusiyangzhinan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 咪子鱼饲养指南</rights>
+    <rights>All rights reserved 2021, 咪子鱼饲养基地</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://miziyusiyangzhinan.github.io/post/hello-gridea/</id>
